@@ -22,6 +22,7 @@ nav {
 
 .sign-up-left {
     margin-left: 60px;
+    margin-right: auto;
 }
 
 .sign-up-img {
@@ -40,6 +41,11 @@ nav {
     display: flex;
     margin: 0 auto;
     padding: 50px 0;
+}
+
+.sign-up-left {
+    display: block;
+    width: 500px;
 }
 
 .sign-up-left .title-font {
