@@ -124,3 +124,8 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+
+a {
+    color:#E5E7EB;
+    text-decoration: none;
+}
