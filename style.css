@@ -102,3 +102,25 @@ h3 {
     flex-shrink: 1;
     min-width: 100px;
 }
+
+#quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    font-size: 36px;
+    font-style: light-italics;
+    color: #1F2937;
+    background-color: #E5E7EB;
+}
+
+span {
+    display: block;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 20px 0;
+    text-align: center;
+}
